@@ -1,0 +1,8 @@
+session,lead,date,timeOfDay,Category,Price,NumMasks,NumFins,NumRegulators,NumDComps
+101,1,2019-07-20,morning,open,150,0,0,0,0
+102,1,2019-07-21,morning,cave,120,0,0,0,0
+103,1,2019-07-22,morning,cave,60,0,0,0,0
+104,1,2019-07-22,evening,cave,35,0,0,0,0
+105,5,2019-07-22,afternoon,open,245,0,0,0,0
+106,5,2019-07-23,morning,cave,40,0,0,0,0
+107,5,2019-07-24,morning,cave,40,0,0,0,0

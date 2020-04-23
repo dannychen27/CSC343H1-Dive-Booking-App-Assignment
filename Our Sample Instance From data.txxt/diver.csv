@@ -1,0 +1,11 @@
+dID,firstname,lastname,email,DOB,certification,creditcard
+1,Michael,Dawson,michael@dm.org,1967-03-15,PADI,111-222-333-4444
+2,Dwight,Schmidt,dwight@dm.org,1967-03-16,NAUI,111-222-333-4445
+3,Jim,Halpert,jim@dm.org,1967-03-17,NAUI,111-222-333-4446
+4,Pam,Beesly,pam@dm.org,1967-03-18,NAUI,111-222-333-4447
+5,Andy,Bernard,andy@dm.org,1973-10-10,PADI,111-222-333-4448
+6,Phyllis,Henderson,phyllis@dm.org,1973-10-11,CMAS,111-222-333-4449
+7,Oscar,Maslow,oscar@dm.org,1973-10-12,CMAS,111-222-333-4450
+8,Maria,Sanders,maria@dm.org,1973-10-13,CMAS,111-222-333-4451
+9,John,Eaton,john@dm.org,1973-10-14,CMAS,111-222-333-4452
+10,Ben,Chocolate,ben@dm.org,1973-10-15,CMAS,111-222-333-4453
